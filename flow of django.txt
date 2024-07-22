@@ -1,0 +1,7 @@
+# CRUD /CURD
+# Middleware
+# JWT Tokens
+# Singles
+# Mixers
+# Session
+# Class Based View
